@@ -11,8 +11,7 @@ The goal is to identify the most important factors affecting mobile phone prices
 ## Google Colab Notebook
 
 You can explore and run the project directly in Google Colab:
-
-[[Open in Google Colab](PUT_YOUR_COLAB_LINK_HERE)](https://colab.research.google.com/drive/1mxjtPo2WsMcCBZVaZJfyvPKs9q4WiFLG?usp=sharing)
+https://colab.research.google.com/drive/1mxjtPo2WsMcCBZVaZJfyvPKs9q4WiFLG?usp=sharing
 
 ## Project Report
 
